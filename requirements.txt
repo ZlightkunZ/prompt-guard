@@ -1,0 +1,3 @@
+# AI SOC Gateway Dependencies
+evtx-hound @ git+https://github.com/ZlightkunZ/evtx-hound.git
+dataclasses>=0.6
